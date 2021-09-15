@@ -1,2 +1,4 @@
 2021-09-14 19:50:23,432 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-09-15 13:25:19,589 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-15 15:02:09,865 [Worker-39: Fetching remote refs from masterahmedhussain@github.com:masterahmedhussain/assignment3.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2021-09-15 15:02:09,940 [Worker-39: Fetching remote refs from masterahmedhussain@github.com:masterahmedhussain/assignment3.git] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
