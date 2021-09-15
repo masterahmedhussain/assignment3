@@ -10,7 +10,7 @@ public class Customer {
 		this.order = order;
 		
 	}
-	public void ReadyForOrder() {
+	public void hungry() {
 		manager.takeOrder(order);
 	}
 

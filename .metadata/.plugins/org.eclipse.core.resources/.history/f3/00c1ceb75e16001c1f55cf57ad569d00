@@ -10,7 +10,7 @@ public class MakeCrackers {
 			Manager manager= new Manager();
 			Customer customer = new Customer(manager);
 			customer.createOrder(new StartOrder(worker));
-			customer.ReadyForOrder();
+			customer.hungry();
 		}
 
 	
