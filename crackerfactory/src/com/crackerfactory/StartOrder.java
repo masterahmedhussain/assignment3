@@ -6,7 +6,7 @@ public class StartOrder  implements Order {
 		this.worker = worker;
 	}
 	public void orderUp() {
-		worker.makeRitzCracker();
 		worker.makeCheezitCracker();
+		worker.makeRitzCracker();
 	}
 	}
